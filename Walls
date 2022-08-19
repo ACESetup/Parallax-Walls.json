@@ -121,31 +121,61 @@
  },
  {
   "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Abstract%20Wallpapers%206.png",
-  "name": "Abstract wallpaper 1",
+  "name": "Abstract wallpaper 6",
   "author": "Don7TK",
   "collections": "Abstract"
  },
  {
   "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Abstract%20Wallpapers%207.png",
-  "name": "Abstract wallpaper 2",
+  "name": "Abstract wallpaper 7",
   "author": "Don7TK",
   "collections": "Abstract"
  },
  {
   "url": "xx",
-  "name": "Abstract wallpaper 3",
+  "name": "Abstract wallpaper 8",
   "author": "Don7TK",
   "collections": "Abstract"
  },
  {
   "url": "xx",
-  "name": "Abstract wallpaper 4",
+  "name": "Abstract wallpaper 9",
   "author": "Don7TK",
   "collections": "Abstract"
  },
  {
   "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Abstract%20Wallpapers%2010.png",
-  "name": "Abstract wallpaper 5",
+  "name": "Abstract wallpaper 10",
+  "author": "Don7TK",
+  "collections": "Abstract"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Abstract%20Wallpapers%2011.png",
+  "name": "Abstract wallpaper 6",
+  "author": "Don7TK",
+  "collections": "Abstract"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Abstract%20Wallpapers%2012.png",
+  "name": "Abstract wallpaper 7",
+  "author": "Don7TK",
+  "collections": "Abstract"
+ },
+ {
+  "url": "xx",
+  "name": "Abstract wallpaper 8",
+  "author": "Don7TK",
+  "collections": "Abstract"
+ },
+ {
+  "url": "xx",
+  "name": "Abstract wallpaper 9",
+  "author": "Don7TK",
+  "collections": "Abstract"
+ },
+ {
+  "url": "xx",
+  "name": "Abstract wallpaper 10",
   "author": "Don7TK",
   "collections": "Abstract"
  }
