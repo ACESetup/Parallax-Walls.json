@@ -1,32 +1,32 @@
 [
     {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/001ACEPastel.jpg",
-  "name": "ACE Retro wallpaper 1",
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Abstract%20Wall%201.png",
+  "name": "Abstract wallpaper 1",
   "author": "Don7TK",
-  "collections": "Retro"
+  "collections": "Abstract"
  },
  {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/002ACEPastel.jpg",
-  "name": "ACE Retro wallpaper 2",
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Abstract%20Wall%202.png",
+  "name": "Abstract wallpaper 2",
   "author": "Don7TK",
-  "collections": "Retro"
+  "collections": "Abstract"
  },
  {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/003ACEPastel.jpg",
-  "name": "ACE Retro wallpaper 3",
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Abstract%20Wall%203.png",
+  "name": "Abstract wallpaper 3",
   "author": "Don7TK",
-  "collections": "Retro"
+  "collections": "Abstract"
  },
  {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/005ACEPastel.png",
-  "name": "ACE Retro wallpaper 4",
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Abstract%20Wall%204.png",
+  "name": "Abstract wallpaper 4",
   "author": "Don7TK",
-  "collections": "Retro"
+  "collections": "Abstract"
  },
  {
-  "url": "https://raw.githubusercontent.com/ACESetup/ACEPastelWalls.json/main/006ACEPastel.png",
-  "name": "ACE Retro wallpaper 5",
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Abstract%20Wall%205.png",
+  "name": "Abstract wallpaper 5",
   "author": "Don7TK",
-  "collections": "Retro"
+  "collections": "Abstract"
  }
  ]
