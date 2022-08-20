@@ -334,7 +334,6 @@
   "name": "Nothing wallpaper 16",
   "author": "Don7TK",
   "collections": "Nothing"
- }tions": "Abstract"
  },
  {
   "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Nothing%20Wallpapers%2017.png",
@@ -365,7 +364,6 @@
   "name": "Nothing wallpaper 21",
   "author": "Don7TK",
   "collections": "Nothing"
- }tions": "Abstract"
  },
  {
   "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Nothing%20Wallpapers%2022.png",
@@ -392,17 +390,65 @@
   "collections": "Nothing"
  },
  {
-  "url": "xx",
-  "name": "Nothing wallpaper 1",
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Vector%20Art%20Wallpapers%201.png",
+  "name": "Vector Art Wallpapers 1",
   "author": "Don7TK",
-  "collections": "Nothing"
- }tions": "Abstract"
+  "collections": "Vector Art Wallpapers"
  },
  {
-  "url": "xx",
-  "name": "Abstract wallpaper 10",
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Vector%20Art%20Wallpapers%202.png",
+  "name": "Vector Art Wallpapers 2",
   "author": "Don7TK",
-  "collections": "Abstract"
+  "collections": "Vector Art Wallpapers"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Vector%20Art%20Wallpapers%203.png",
+  "name": "Vector Art Wallpapers 3",
+  "author": "Don7TK",
+  "collections": "Vector Art Wallpapers"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Vector%20Art%20Wallpapers%204.png",
+  "name": "Vector Art Wallpapers 4",
+  "author": "Don7TK",
+  "collections": "Vector Art Wallpapers"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Vector%20Art%20Wallpapers%205.png",
+  "name": "Vector Art Wallpapers 5",
+  "author": "Don7TK",
+  "collections": "Nothing"
+ }tions": "Vector Art Wallpapers"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Vector%20Art%20Wallpapers%206.png",
+  "name": "Vector Art Wallpapers 6",
+  "author": "Don7TK",
+  "collections": "Vector Art Wallpapers"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Vector%20Art%20Wallpapers%207.png",
+  "name": "Vector Art Wallpapers 7",
+  "author": "Don7TK",
+  "collections": "Vector Art Wallpapers"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Vector%20Art%20Wallpapers%208.png",
+  "name": "Vector Art Wallpapers 8",
+  "author": "Don7TK",
+  "collections": "Vector Art Wallpapers"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Vector%20Art%20Wallpapers%209.png",
+  "name": "Vector Art Wallpapers 9",
+  "author": "Don7TK",
+  "collections": "Vector Art Wallpapers"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Vector%20Art%20Wallpapers%2010.png",
+  "name": "Vector Art Wallpapers 10",
+  "author": "Don7TK",
+  "collections": "Vector Art Wallpapers"
  },
  {
   "url": "xx",
