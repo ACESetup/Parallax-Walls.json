@@ -450,15 +450,63 @@
   "collections": "Vector Art Wallpapers"
  },
  {
-  "url": "xx",
-  "name": "Abstract wallpaper 11",
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Symbol%20Wallpapers%201.png",
+  "name": "Symbols wallpaper 11",
   "author": "Don7TK",
-  "collections": "Abstract"
+  "collections": "Symbols"
  },
  {
-  "url": "xx",
-  "name": "Abstract wallpaper 10",
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Symbol%20Wallpapers%202.png",
+  "name": "Symbols wallpaper 10",
   "author": "Don7TK",
-  "collections": "Abstract"
+  "collections": "Symbols"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Symbol%20Wallpapers%203.png",
+  "name": "Symbols wallpaper 11",
+  "author": "Don7TK",
+  "collections": "Symbols"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Symbol%20Wallpapers%204.png",
+  "name": "Symbols wallpaper 10",
+  "author": "Don7TK",
+  "collections": "Symbols"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Symbol%20Wallpapers%205.png",
+  "name": "Symbols wallpaper 11",
+  "author": "Don7TK",
+  "collections": "Symbols"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Symbol%20Wallpapers%206.png",
+  "name": "Symbols wallpaper 10",
+  "author": "Don7TK",
+  "collections": "Symbols"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Symbol%20Wallpapers%207.png",
+  "name": "Symbols wallpaper 11",
+  "author": "Don7TK",
+  "collections": "Symbols"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Symbol%20Wallpapers%208.png",
+  "name": "Symbols wallpaper 10",
+  "author": "Don7TK",
+  "collections": "Symbols"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Symbol%20Wallpapers%209.png",
+  "name": "Symbols wallpaper 11",
+  "author": "Don7TK",
+  "collections": "Symbols"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Symbol%20Wallpapers%2010.png",
+  "name": "Symbols wallpaper 10",
+  "author": "Don7TK",
+  "collections": "Symbols"
  }
  ]
