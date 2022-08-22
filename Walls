@@ -879,5 +879,65 @@
   "name": "Minimal wallpaper 10",
   "author": "Don7TK",
   "collections": "Minimal"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Blobs%20Wallpapers%201.png",
+  "name": "Blobs wallpaper 1",
+  "author": "Don7TK",
+  "collections": "Blobs"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Blobs%20Wallpapers%202.png",
+  "name": "Blobs wallpaper 2",
+  "author": "Don7TK",
+  "collections": "Blobs"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Blobs%20Wallpapers%203.png",
+  "name": "Blobs wallpaper 3",
+  "author": "Don7TK",
+  "collections": "Blobs"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Blobs%20Wallpapers%204.png",
+  "name": "Blobs wallpaper 4",
+  "author": "Don7TK",
+  "collections": "Abstract"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Blobs%20Wallpapers%205.png",
+  "name": "Blobs wallpaper 5",
+  "author": "Don7TK",
+  "collections": "Blobs"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Blobs%20Wallpapers%206.png",
+  "name": "Blobs wallpaper 6",
+  "author": "Don7TK",
+  "collections": "Blobs"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Blobs%20Wallpapers%207.png",
+  "name": "Blobs wallpaper 7",
+  "author": "Don7TK",
+  "collections": "Abstract"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Blobs%20Wallpapers%208.png",
+  "name": "Blobs wallpaper 8",
+  "author": "Don7TK",
+  "collections": "Abstract"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Blobs%20Wallpapers%209.png",
+  "name": "Blobs wallpaper 9",
+  "author": "Don7TK",
+  "collections": "Abstract"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Blobs%20Wallpapers%2010.png",
+  "name": "Blobs wallpaper 10",
+  "author": "Don7TK",
+  "collections": "Blobs"
  }
 ]
