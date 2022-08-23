@@ -1599,5 +1599,65 @@
   "name": "Animal wallpaper 45",
   "author": "Don7TK",
   "collections": "Animal"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/3D%20Wallpapers%201.png",
+  "name": "3D wallpaper 1",
+  "author": "Don7TK",
+  "collections": "3D"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/3D%20Wallpapers%202.png",
+  "name": "3D wallpaper 2",
+  "author": "Don7TK",
+  "collections": "3D"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/3D%20Wallpapers%203.png",
+  "name": "3D wallpaper 3",
+  "author": "Don7TK",
+  "collections": "3D"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/3D%20Wallpapers%204.png",
+  "name": "3D wallpaper 4",
+  "author": "Don7TK",
+  "collections": "3D"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/3D%20Wallpapers%205.png",
+  "name": "3D wallpaper 5",
+  "author": "Don7TK",
+  "collections": "3D"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/3D%20Wallpapers%206.png",
+  "name": "3D wallpaper 6",
+  "author": "Don7TK",
+  "collections": "3D"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/3D%20Wallpapers%207.png",
+  "name": "3D wallpaper 7",
+  "author": "Don7TK",
+  "collections": "3D"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/3D%20Wallpapers%208%20(1).png",
+  "name": "3D wallpaper 8",
+  "author": "Don7TK",
+  "collections": "3D"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/3D%20Wallpapers%209.png",
+  "name": "3D wallpaper 9",
+  "author": "Don7TK",
+  "collections": "3D"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/3D%20Wallpapers%2010.png",
+  "name": "3D wallpaper 10",
+  "author": "Don7TK",
+  "collections": "3D"
  }
 ]
