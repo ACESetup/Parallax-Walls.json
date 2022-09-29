@@ -2871,5 +2871,35 @@
   "name": "3D wallpaper 70",
   "author": "Don7TK",
   "collections": "3D"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/NBA%20Wall%201.png",
+  "name": "NBA Wall 1",
+  "author": "Don7TK",
+  "collections": "NBA"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/NBA%20Wall%202.png",
+  "name": "NBA Wall 2",
+  "author": "Don7TK",
+  "collections": "NBA"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/NBA%20Wall%203.png",
+  "name": "NBA Wall 3",
+  "author": "Don7TK",
+  "collections": "NBA"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/NBA%20Wall%204.png",
+  "name": "NBA Wall 4",
+  "author": "Don7TK",
+  "collections": "NBA"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/NBA%20Wall%205.png",
+  "name": "NBA Wall 5",
+  "author": "Don7TK",
+  "collections": "NBA"
  }
 ]
