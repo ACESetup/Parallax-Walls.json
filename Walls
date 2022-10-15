@@ -3429,5 +3429,65 @@
   "name": "ISL wallpaper",
   "author": "Don7TK",
   "collections": "ISL"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Mono%20Wall%201.png",
+  "name": "Mono wallpaper 31",
+  "author": "Don7TK",
+  "collections": "Mono"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Mono%20Wall%202.png",
+  "name": "Mono wallpaper 32",
+  "author": "Don7TK",
+  "collections": "Mono"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Nothing%20Wall%201.png",
+  "name": "Nothing wallpaper 31",
+  "author": "Don7TK",
+  "collections": "Nothing"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Nothing%20Wall%2010.png",
+  "name": "Nothing wallpaper 32",
+  "author": "Don7TK",
+  "collections": "Nothing"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Nothing%20Wall%202.png",
+  "name": "Nothing wallpaper 33",
+  "author": "Don7TK",
+  "collections": "Nothing"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Nothing%20Wall%204.png",
+  "name": "Nothing wallpaper 34",
+  "author": "Don7TK",
+  "collections": "Nothing"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Nothing%20Wall%205.png",
+  "name": "Nothing wallpaper 35",
+  "author": "Don7TK",
+  "collections": "Nothing"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Nothing%20Wall%206.png",
+  "name": "Nothing wallpaper 36",
+  "author": "Don7TK",
+  "collections": "Nothing"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Nothing%20Wall%208.png",
+  "name": "Nothing wallpaper 37",
+  "author": "Don7TK",
+  "collections": "Nothing"
+ },
+ {
+  "url": "https://raw.githubusercontent.com/ACESetup/Parallax-Walls.json/main/Nothing%20Wall%209.png",
+  "name": "Nothing wallpaper 38",
+  "author": "Don7TK",
+  "collections": "Nothing"
  }
 ]
